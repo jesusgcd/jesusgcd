@@ -1,6 +1,6 @@
 # Hola, soy Jesús Cordero Díaz 👋
 
-[Read in English](README.md)
+[Read in English](README_en.md)
 
 ## 👤 Introducción Personal
 Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica, galardonado con la Beca de Honor en el I Semestre 2025 gracias a mi desempeño en el II Semestre 2024. Apasionado por el desarrollo de software, la investigación y el soporte técnico, disfruto resolviendo problemas y fomentando la innovación.
@@ -13,23 +13,23 @@ Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa 
 - **Operador del Laboratorio Interinstitucional de Cómputo:** Supervisión y soporte técnico de equipos (Jul 2023 – Dic 2023).
 
 ## 🚀 Proyectos Destacados
-- **Software para Veterinaria [Proyecto_de_Ingeniería_de_Software]:**  
+- **Software para Veterinaria [Engineering_Project]:**  
   Desarrollo de una solución de software a medida para una clínica veterinaria en un proyecto de curso.  
   [Ver Proyecto](https://github.com/jesusgcd/Engineering_Project)
   
-- **Servidor de Correo & Configuración de Red [Redes - Tarea 1]:**  
+- **Servidor de Correo & Configuración de Red [Networks - Assignment 1]:**  
   Creación de un MAIL Server para envío, recepción y consulta de correos usando SMTP, configuración de DNS en Cloudflare y despliegue en una instancia EC2 de AWS.  
   [Ver Tarea](https://github.com/jesusgcd/Networks/tree/master/Assignments/Assignment_1)
   
-- **Artículo de Investigación [Investigación_de_Operaciones]:**  
+- **Artículo de Investigación [Operations_Research]:**  
   Coautoría de un artículo enviado a una revista colombiana para su valoración y posible publicación.  
   [Leer Artículo](https://github.com/jesusgcd/Operations_Research/blob/master/Projects/Project_2/Carvajal_Rojas_Cordero.pdf)
 
-## 🛠 Habilidades Técnicas
-- **Lenguajes:** Java, Python, C#, JavaScript, C/C++, TypeScript, .NET  
-- **Herramientas:** Git, Docker, Jira  
-- **Bases de Datos:** SQL Server, PostgreSQL, Firebase, MySQL  
-- **Metodologías:** Scrum, Waterfall
+## 🛠 <span style="color:#FF8C00">Habilidades Técnicas</span>
+- **💻 Lenguajes:** Java, Python, C#, JavaScript, C/C++, TypeScript, .NET  
+- **🔧 Herramientas:** Git, Docker, Jira  
+- **🗄 Bases de Datos:** SQL Server, PostgreSQL, Firebase, MySQL  
+- **🧩 Metodologías:** Scrum, Waterfall
 
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusgcd&show_icons=true&theme=default)
@@ -54,12 +54,12 @@ Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa 
 - **Correo:** [jesusg.corderodiaz@gmail.com](mailto:jesusg.corderodiaz@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jesúscorderodíaz](https://linkedin.com/in/jes%C3%BAs-corderod%C3%ADaz)
 
-## 🎲 Datos Curiosos & Personales
-- **Idiomas:**  
+## 🎲 <span style="color:#1E90FF">Datos Curiosos & Personales</span>
+- **🌐 Idiomas:**  
   - Español: Nativo  
   - Inglés: Intermedio (B1)
-- **Pasatiempos e Intereses:**  
-  - Tecnología: Experimentar con nuevas herramientas y lenguajes de programación.  
-  - Educación y Mentoría: Apoyar a estudiantes y compañeros en temas de programación.  
-  - Arte/Expresión: Baile en grupo o en pareja.  
-  - Cultura: Interés por conocer diferentes países y culturas.
+- **🎨 Pasatiempos e Intereses:**  
+  - <span style="color:#DA70D6">Tecnología:</span> Experimentar con nuevas herramientas y lenguajes de programación.  
+  - <span style="color:#32CD32">Educación y Mentoría:</span> Apoyar a estudiantes y compañeros en temas de programación.  
+  - <span style="color:#FF6347">Arte/Expresión:</span> Baile en grupo o en pareja.  
+  - <span style="color:#FFD700">Cultura:</span> Interés por conocer diferentes países y culturas.

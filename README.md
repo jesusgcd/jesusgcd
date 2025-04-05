@@ -1,6 +1,6 @@
 # Hi, I'm Jesús Cordero Díaz 👋
 
-[Leer en español](README_es.md)
+[Read in Spanish](README.md)
 
 ## 👤 Personal Introduction
 Computer Engineering student at Instituto Tecnológico de Costa Rica, awarded the Honor Scholarship in I Semester 2025 due to my performance in II Semester 2024. Passionate about software development, research, and technical support, I enjoy solving problems and fostering innovation.
@@ -25,11 +25,11 @@ Computer Engineering student at Instituto Tecnológico de Costa Rica, awarded th
   Co-authored an article submitted to a Colombian journal for review and potential publication.  
   [Read Article](https://github.com/jesusgcd/Operations_Research/blob/master/Projects/Project_2/Carvajal_Rojas_Cordero.pdf)
 
-## 🛠 Technical Skills
-- **Languages:** Java, Python, C#, JavaScript, C/C++, TypeScript, .NET  
-- **Tools:** Git, Docker, Jira  
-- **Databases:** SQL Server, PostgreSQL, Firebase, MySQL  
-- **Methodologies:** Scrum, Waterfall
+## 🛠 <span style="color:#FF8C00">Technical Skills</span>
+- **💻 Languages:** Java, Python, C#, JavaScript, C/C++, TypeScript, .NET  
+- **🔧 Tools:** Git, Docker, Jira  
+- **🗄 Databases:** SQL Server, PostgreSQL, Firebase, MySQL  
+- **🧩 Methodologies:** Scrum, Waterfall
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusgcd&show_icons=true&theme=default)
@@ -54,12 +54,12 @@ Computer Engineering student at Instituto Tecnológico de Costa Rica, awarded th
 - **Email:** [jesusg.corderodiaz@gmail.com](mailto:jesusg.corderodiaz@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jesúscorderodíaz](https://linkedin.com/in/jes%C3%BAs-corderod%C3%ADaz)
 
-## 🎲 Fun Facts & Personal Interests
-- **Languages:**  
+## 🎲 <span style="color:#1E90FF">Fun Facts & Personal Interests</span>
+- **🌐 Languages:**  
   - Spanish: Native  
   - English: Intermediate (B1)
-- **Hobbies & Interests:**  
-  - Technology: Experimenting with new programming tools and languages.  
-  - Education & Mentoring: Supporting peers in programming topics.  
-  - Arts/Expression: Enjoy group or couple dancing.  
-  - Culture: Keen interest in learning about different countries and cultures.
+- **🎨 Hobbies & Interests:**  
+  - <span style="color:#DA70D6">Technology:</span> Experimenting with new programming tools and languages.  
+  - <span style="color:#32CD32">Education & Mentoring:</span> Supporting peers in programming topics.  
+  - <span style="color:#FF6347">Arts/Expression:</span> Enjoy group or couple dancing.  
+  - <span style="color:#FFD700">Culture:</span> Keen interest in learning about different countries and cultures.
