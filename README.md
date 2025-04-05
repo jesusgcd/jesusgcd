@@ -1,6 +1,6 @@
 # Hi, I'm Jesús Cordero Díaz 👋
 
-[Read in Spanish](README.md)
+[Read in Spanish](README_es.md)
 
 ## 👤 Personal Introduction
 Computer Engineering student at Instituto Tecnológico de Costa Rica, awarded the Honor Scholarship in I Semester 2025 due to my performance in II Semester 2024. Passionate about software development, research, and technical support, I enjoy solving problems and fostering innovation.
