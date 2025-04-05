@@ -47,7 +47,10 @@ Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-- **🧩 Metodologías:** Scrum, Waterfall
+### 🧩 Metodologías
+![Scrum](https://img.shields.io/badge/Scrum-Ágil-blue?style=flat)
+![Waterfall](https://img.shields.io/badge/Waterfall-Clásico-orange?style=flat)
+
 
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusgcd&show_icons=true&theme=default)
