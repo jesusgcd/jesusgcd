@@ -47,7 +47,10 @@ Computer Engineering student at Instituto Tecnológico de Costa Rica, awarded th
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-- **🧩 Methodologies:** Scrum, Waterfall
+### 🧩 Metodologías
+![Scrum](https://img.shields.io/badge/Scrum-Agile-blue?style=flat)
+![Waterfall](https://img.shields.io/badge/Waterfall-Classic-orange?style=flat)
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusgcd&show_icons=true&theme=default)
