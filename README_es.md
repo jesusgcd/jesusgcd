@@ -13,15 +13,15 @@ Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa 
 - **Operador del Laboratorio Interinstitucional de Cómputo:** Supervisión y soporte técnico de equipos (Jul 2023 – Dic 2023).
 
 ## 🚀 Proyectos Destacados
-- **Software para Veterinaria [Engineering_Project]:**  
+- **Software para Veterinaria [Proyecto_de_Ingeniería_de_Software]:**  
   Desarrollo de una solución de software a medida para una clínica veterinaria en un proyecto de curso.  
   [Ver Proyecto](https://github.com/jesusgcd/Engineering_Project)
   
-- **Servidor de Correo & Configuración de Red [Networks - Assignment 1]:**  
+- **Servidor de Correo & Configuración de Red [Redes - Tarea 1]:**  
   Creación de un MAIL Server para envío, recepción y consulta de correos usando SMTP, configuración de DNS en Cloudflare y despliegue en una instancia EC2 de AWS.  
   [Ver Tarea](https://github.com/jesusgcd/Networks/tree/master/Assignments/Assignment_1)
   
-- **Artículo de Investigación [Operations_Research]:**  
+- **Artículo de Investigación [Investigación_de_Operaciones]:**  
   Coautoría de un artículo enviado a una revista colombiana para su valoración y posible publicación.  
   [Leer Artículo](https://github.com/jesusgcd/Operations_Research/blob/master/Projects/Project_2/Carvajal_Rojas_Cordero.pdf)
 
