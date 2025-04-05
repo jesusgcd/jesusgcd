@@ -25,10 +25,28 @@ Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa 
   Coautoría de un artículo enviado a una revista colombiana para su valoración y posible publicación.  
   [Leer Artículo](https://github.com/jesusgcd/Operations_Research/blob/master/Projects/Project_2/Carvajal_Rojas_Cordero.pdf)
 
-## 🛠 <span style="color:#FF8C00">Habilidades Técnicas</span>
-- **💻 Lenguajes:** Java, Python, C#, JavaScript, C/C++, TypeScript, .NET  
-- **🔧 Herramientas:** Git, Docker, Jira  
-- **🗄 Bases de Datos:** SQL Server, PostgreSQL, Firebase, MySQL  
+## 🛠️ Tecnologías y Herramientas
+
+### 💻 Lenguajes
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=flat&logo=dot-net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
+
+### 🔧 Herramientas
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+
+### 🗄 Bases de Datos
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+
 - **🧩 Metodologías:** Scrum, Waterfall
 
 ## 📊 Estadísticas de GitHub
