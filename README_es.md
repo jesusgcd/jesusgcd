@@ -1,6 +1,6 @@
 # Hola, soy Jesús Cordero Díaz 👋
 
-[Leer en español](README.md)
+[Read in English](README.md)
 
 ## 👤 Introducción Personal
 Estudiante de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica, galardonado con la Beca de Honor en el I Semestre 2025 gracias a mi desempeño en el II Semestre 2024. Apasionado por el desarrollo de software, la investigación y el soporte técnico, disfruto resolviendo problemas y fomentando la innovación.
